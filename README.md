@@ -22,12 +22,12 @@
   <tr>
     <th> Title </th>
     <th> Article</th>
-    <th>Repo</th>
+    <th>Repository</th>
   </tr>
   <tr>
     <td>Liver Prediction</td>
-    <td> <a href="https://github.com/amandarnds/Predict-Liver-Disease">🔗 </a></td>
     <td><em>Coming soon<em></td>
+    <td> <a href="https://github.com/amandarnds/Predict-Liver-Disease">🔗 </a></td>
   </tr>
 </table>
 
@@ -38,7 +38,7 @@
   <tr>
     <th> Title </th>
     <th> Article</th>
-    <th>Repo</th>
+    <th>Repository</th>
   </tr>
   <tr>
     <td>Coming soon</td>
@@ -54,7 +54,7 @@
   <tr>
     <th> Title </th>
     <th> Article</th>
-    <th>Repo</th>
+    <th>Repository</th>
   </tr>
   <tr>
     <td>Coming soon</td>
@@ -70,7 +70,7 @@
   <tr>
     <th> Title </th>
     <th> Article</th>
-    <th>Repo</th>
+    <th>Repository</th>
   </tr>
   <tr>
     <td>Coming soon</td>
