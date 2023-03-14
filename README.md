@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Liver Prediction</td>
-    <td><em>Coming soon<em></td>
+    <td> <a href="https://github.com/amandarnds/Predict-Liver-Disease">🔗 </a></td>
     <td><em>Coming soon<em></td>
   </tr>
 </table>
