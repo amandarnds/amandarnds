@@ -54,12 +54,10 @@
   <tr>
     <th> Title </th>
     <th> Article</th>
-    <th>Repository</th>
   </tr>
   <tr>
-    <td>Coming soon</td>
-    <td><em>Coming soon<em></td>
-    <td><em>Coming soon<em></td>
+    <td>SQL for Beginners</td>
+    <td><em><a href="https://medium.com/@amanda.rnds18/sql-for-beginners-1f6345c8a52d">🔗 </a></td><em>
   </tr>
 </table>
 
