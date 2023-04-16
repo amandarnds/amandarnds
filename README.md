@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Liver Prediction</td>
-    <td><a href="Predict-Liver-Disease/README.md at main · amandarnds/Predict-Liver-Disease (github.com)">🔗 </a></td>
+    <td><a href="https://github.com/amandarnds/Predict-Liver-Disease/blob/main/README.md">🔗 </a></td>
     <td> <a href="https://github.com/amandarnds/Predict-Liver-Disease/blob/main/Predict-Liver-Disease.ipynb">🔗 </a></td>
   </tr>
 </table>
