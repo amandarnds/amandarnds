@@ -63,7 +63,7 @@
 
 <hr size="2" color="blue" width="100%">
 
-### Quality :mag_right:
+### Kaggle - Competitions :mag_right:
  <table>
   <tr>
     <th> Title </th>
@@ -71,21 +71,9 @@
     <th>Repository</th>
   </tr>
   <tr>
-    <td>Coming soon</td>
+    <td>Titanic</td>
     <td><em>Coming soon<em></td>
     <td><em>Coming soon<em></td>
   </tr>
 </table>
 <!--
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
