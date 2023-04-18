@@ -73,7 +73,7 @@
   <tr>
     <td>Titanic</td>
     <td><em>Coming soon<em></td>
-    <td><em>Coming soon<em></td>
+    <td><em><a href="https://github.com/amandarnds/Titanic">🔗</a></td><em> 
   </tr>
 </table>
 <!--
