@@ -13,8 +13,9 @@
 ### Portifolio Contents
 1. Machine Learning - Classification 
 2. Python
-3. Data Analyses
-4. Quality Tools
+3. Data Analysis
+4. Statistic
+5. Kaggle
 <hr size="2" color="blue" width="100%">
 
 ### Machine Learning - Classification 🗄️
@@ -49,7 +50,7 @@
 
 <hr size="2" color="blue" width="100%">
 
-### Data Analyses:chart_with_upwards_trend:
+### Data Analysis:chart_with_upwards_trend:
  <table>
   <tr>
     <th> Title </th>
@@ -58,6 +59,20 @@
   <tr>
     <td>SQL for Beginners</td>
     <td><em><a href="https://medium.com/@amanda.rnds18/sql-for-beginners-1f6345c8a52d">🔗 </a></td><em>
+  </tr>
+</table>
+
+<hr size="2" color="blue" width="100%">
+   
+### Statistic :chart_with_upwards_trend:
+ <table>
+  <tr>
+    <th> Title </th>
+    <th> Article</th>
+  </tr>
+  <tr>
+    <td>Types of variables in Data Science</td>
+    <td><em><a href="https://medium.com/@amanda.rnds18/types-of-variables-in-statistics-2ea68ba0defb">🔗 </a></td><em>
   </tr>
 </table>
 
