@@ -11,14 +11,15 @@
 <hr size="2" color="blue" width="100%">
 
 ### Portifolio Contents
-1. Machine Learning - Classification 
-2. Python
-3. Data Analysis
-4. Statistic
-5. Kaggle
+1. Descriptive Analysis
+2. Machine Learning  
+3. Python
+4. SQL
+5. Statistic
+6. Kaggle
 <hr size="2" color="blue" width="100%">
 
-### Machine Learning - Classification 🗄️
+### Descriptive Analysis
 <table>
   <tr>
     <th> Title </th>
@@ -26,7 +27,23 @@
     <th>Repository</th>
   </tr>
   <tr>
-    <td>Liver Prediction</td>
+    <td>Coming Soon </td>
+    <td>Coming Soon <a> </a></td>
+    <td> <a Coming Soon >🔗 </a></td>
+  </tr>
+</table>
+
+<hr size="2" color="blue" width="100%">
+
+### Machine Learning 🗄️
+<table>
+  <tr>
+    <th> Title </th>
+    <th> Article</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td>Liver Prediction (Classification) </td>
     <td><a href="https://github.com/amandarnds/Predict-Liver-Disease/blob/main/README.md">🔗 </a></td>
     <td> <a href="https://github.com/amandarnds/Predict-Liver-Disease/blob/main/Predict-Liver-Disease.ipynb">🔗 </a></td>
   </tr>
@@ -50,7 +67,7 @@
 
 <hr size="2" color="blue" width="100%">
 
-### Data Analysis:chart_with_upwards_trend:
+### SQL:chart_with_upwards_trend:
  <table>
   <tr>
     <th> Title </th>
@@ -73,6 +90,10 @@
   <tr>
     <td>Types of variables in Data Science</td>
     <td><em><a href="https://medium.com/@amanda.rnds18/types-of-variables-in-statistics-2ea68ba0defb">🔗 </a></td><em>
+  </tr>
+    <tr>
+    <td>Summary Statistics</td>
+    <td><em><a href="https://medium.com/@amanda.rnds18/summary-statistics-af5a3549b07e">🔗 </a></td><em>
   </tr>
 </table>
 
