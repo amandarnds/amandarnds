@@ -56,12 +56,10 @@
   <tr>
     <th> Title </th>
     <th> Article</th>
-    <th>Repository</th>
   </tr>
   <tr>
-    <td>Coming soon</td>
-    <td><em>Coming soon<em></td>
-    <td><em>Coming soon<em></td>
+    <td>Basic Concepts of Python</td>
+    <td><em><a href="https://medium.com/@amanda.rnds18/basic-concepts-of-python-42a1f2e7a761">🔗 </a></td><em>
   </tr>
 </table>
 
