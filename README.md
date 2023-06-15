@@ -61,6 +61,10 @@
     <td>Basic Concepts of Python</td>
     <td><em><a href="https://medium.com/@amanda.rnds18/basic-concepts-of-python-42a1f2e7a761">🔗 </a></td><em>
   </tr>
+    <tr>
+    <td>Functions in Python</td>
+    <td><em><a href="https://medium.com/@amanda.rnds18/functions-in-python-be4a71812c2c">🔗 </a></td><em>
+  </tr>
 </table>
 
 <hr size="2" color="blue" width="100%">
