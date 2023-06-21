@@ -64,6 +64,9 @@
     <tr>
     <td>Functions in Python</td>
     <td><em><a href="https://medium.com/@amanda.rnds18/functions-in-python-be4a71812c2c">🔗 </a></td><em>
+    <tr>
+    <td>Lambda Function in Python</td>
+    <td><em><a href="https://medium.com/@amanda.rnds18/lambda-function-in-python-bfefd062b1a0">🔗 </a></td><em>
   </tr>
 </table>
 
