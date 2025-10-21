@@ -2,7 +2,7 @@
 
 - :heart: Thanks for showing up
 - :computer: I'm a constant learner, curious explorer, quality expert and data-driven person. I love solving data problems using technology and quality tools
-- 🌱 I’m currently learning data science tools and quality tools.
+- 🌱 I’m currently learning the universe of IA and data.
 - ⚡ Passions: :sunny: :leaves: :apple:
 - 📫 Follow me on <a href="https://www.linkedin.com/in/amanda-rnds/">Linkedin</a> and <a href="https://medium.com/@amanda.rnds18">Medium</a>
 - :sparkles:I welcome you to join me on a learning journey. Let's go ? :wink:
